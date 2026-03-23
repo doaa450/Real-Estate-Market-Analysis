@@ -6,3 +6,7 @@ The real estate market is a complex and dynamic entity of great interest for pro
 
 ## Project Objective:
 This Real Estate Market Analysis with Python project aims for you to preprocess, analyze, and visualize the real estate property data, thereby generating meaningful insights about property transactions and customer profiles.
+
+ ## Project files
+
+The data in this Real Estate Market Analysis with Python project is divided into two main tables. The first dataset contains details about the properties, including ID, building details, sale date, etc. The second dataset comprises customer details, such as customer ID, entity, name, surname, and more.
